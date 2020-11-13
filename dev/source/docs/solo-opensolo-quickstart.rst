@@ -1,7 +1,7 @@
 .. _solo_opensolo_quickstart:
 
 =========================
-OpenSolo QuickStart Guide
+OpenSolo QuickStart Guide 
 =========================
 
 .. note::
